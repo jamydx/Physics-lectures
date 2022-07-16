@@ -1,4 +1,6 @@
-# Physics-lectures
+![Banner](materiales/water_banner.jpg)
+
+# Lecciones de Física
 
 Lecciones de Física es español.
 
