@@ -1,4 +1,4 @@
-![Banner](materiales/water_banner.jpg)
+![Banner](materiales/water_banner-m.jpg)
 
 # Lecciones de Física
 
