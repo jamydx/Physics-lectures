@@ -4,6 +4,12 @@
 
 Lecciones de Física es español.
 
+## Vectores y cinemática
+
+Libros
+
+- [Machuca, J. (2017). Cinematica 1BGU](https://github.com/jamydx/Physics-lectures/blob/main/Cinematica/Machuca_J_2017_Cinematica_1BGU.pdf)
+
 ## Mecánica de fluidos
 
 Actividades de Aprendizaje Práctico Experimental:
