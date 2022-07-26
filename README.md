@@ -1,8 +1,10 @@
-![Banner](materiales/water_banner-m.jpg)
+![Banner](src/water_banner-m.jpg)
 
 # Lecciones de Física
 
 Lecciones de Física es español.
+
+-----
 
 ## Vectores y cinemática
 
@@ -21,6 +23,10 @@ Actividades de Aprendizaje Práctico Experimental:
 Actividades de Aprendizaje Práctico Experimental:
 
 - [Segunda ley de la termodinámica](https://github.com/jamydx/Physics-lectures/blob/main/Termodinamica/APE3_U3_2a_ley_termodinamica.pdf)
+
+## Recursos de evaluación
+
+- [Rúbrica para exposiciones](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.pdf)
 
 
 -----
