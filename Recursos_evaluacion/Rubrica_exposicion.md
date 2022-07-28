@@ -1,10 +1,8 @@
 ---
 title: Rúbrica para evaluar exposición
-date : '2022-06-30'
 author: Jonathan Machuca
 creator: VS Code
 keywords: [Rúbrica, Evaluación, Exposición]
-geometry: paperheight=8.268in,paperwidth=11.693in,margin=8mm
 tags: [Publishing]
 ---
 

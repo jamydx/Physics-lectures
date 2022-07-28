@@ -26,7 +26,10 @@ Actividades de Aprendizaje Práctico Experimental:
 
 ## Recursos de evaluación
 
-- [Rúbrica para exposiciones](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.pdf)
+| No.  | Tipo del recurso                  |                                                              |                                                              |
+| ---- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Rúbrica para evaluar exposiciones | [Editable](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.md) | [PDF](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.pdf) |
+| 2    | Rúbrica para evaluar proyectos    | [Editable](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.md) | [PDF](https://github.com/jamydx/Physics-lectures/blob/main/Recursos_evaluacion/Rubrica_exposicion.md) |
 
 
 -----

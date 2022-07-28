@@ -3,12 +3,13 @@ title: Rúbrica para evaluar proyectos
 author: Jonathan Machuca
 creator: VS Code and Typora
 keywords: [Rúbrica, Evaluación, Proyectos, Física]
-geometry: paperheight=11.693,paperwidth=8.268in,margin=8mm
 tags: [Publishing]
 ---
 
 **Rúbrica de Evaluación de Proyectos de Física**
+
 **Elaboración:** MSc. Jonathan Alberto Machuca Yaguana
+
 **Grupo/Tema:** ..................................................................................................
 
 | **No.** | **Dimensión**                                   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                          | **(1)** | **(2)** | **(3)** |
@@ -20,4 +21,5 @@ tags: [Publishing]
 |    5    | Originalidad y/o dificultad                     | Se valora la originalidad, novedad y dificultad del proyecto. No obstante, el peso recae en el aporte de los estudiantes y la comprensión de lo presentado. Los aportes incluyen elementos novedosos tanto en el diseño del proyecto como en la explicación o presentación, en la combinación de demostraciones y aplicaciones, o en el tipo de observaciones, análisis y relaciones entre aspectos aparentemente alejados entre sí. |         |         |         |
 
 **Bibliografía**
+
 Experimenta, (2015). *Criterios generales de valoración de proyectos*. Universidad de Valencia.
